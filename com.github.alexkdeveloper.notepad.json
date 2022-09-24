@@ -1,7 +1,7 @@
 {
     "app-id" : "com.github.alexkdeveloper.notepad",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "42",
+    "runtime-version" : "43",
     "sdk" : "org.gnome.Sdk",
     "command" : "com.github.alexkdeveloper.notepad",
     "finish-args" : [
@@ -31,8 +31,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/notepad.git",
-                    "tag" : "1.0.5",
-                    "commit" : "9221551d06e10c9451a694cb4ec6d2e708acb82d"
+                    "tag" : "1.0.6",
+                    "commit" : "27b360725d09d3447a68b7b65f9b03bf1bd30dd1"
                 }
             ]
         }
