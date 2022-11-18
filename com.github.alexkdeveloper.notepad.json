@@ -31,8 +31,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/notepad.git",
-                    "tag" : "1.0.8",
-                    "commit" : "83d7dc2faacc388afa20bbb5d99929f0a91a1ac9"
+                    "tag" : "1.0.9",
+                    "commit" : "31636845fd785c81f256ebfc0dc2323b254f018e"
                 }
             ]
         }
